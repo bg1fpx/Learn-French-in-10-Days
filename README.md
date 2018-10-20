@@ -2,7 +2,7 @@
 
 An introductory French course for Chinese autodidacts
 
-http://www.italian.org.cn/app/
+http://italian.org.cn/app/
 
 http://dictware.co.nf
 
