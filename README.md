@@ -1,9 +1,9 @@
-# Learn French in 10 Days [法语十日入门]
+# Learn French in 10 Days | 法语十日入门
 
 An introductory French course for Chinese autodidacts
 
-http://italian.org.cn/app/
+为中国自学者编写的法语入门课程
 
-http://dictware.co.nf
+www.italian.org.cn/app/
 
-http://francophone.co.nf
+www.zhangyichi.com
