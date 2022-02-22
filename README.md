@@ -7,3 +7,5 @@ An introductory French course for Chinese autodidacts
 www.italian.org.cn/app/
 
 www.zhangyichi.com
+
+french.coolpage.biz
